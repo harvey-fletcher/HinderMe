@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="styles/app.css" type="text/css">
     </head>
     <body>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script type="text/javascript" src="js/<?php echo basename(__FILE__, '.php');?>.js"></script>
     </body>
 </html>
